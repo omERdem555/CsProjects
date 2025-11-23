@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "YasDegerleriniDoldurma/1.0.0": {
+        "runtime": {
+          "YasDegerleriniDoldurma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YasDegerleriniDoldurma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\bin\Debug\net8.0\YasDegerleriniDoldurma.exe
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\bin\Debug\net8.0\YasDegerleriniDoldurma.deps.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\bin\Debug\net8.0\YasDegerleriniDoldurma.runtimeconfig.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\bin\Debug\net8.0\YasDegerleriniDoldurma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\bin\Debug\net8.0\YasDegerleriniDoldurma.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\YasDegerleriniDoldurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\YasDegerleriniDoldurma.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\YasDegerleriniDoldurma.AssemblyInfo.cs
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\YasDegerleriniDoldurma.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\YasDegerleriniDoldurma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\refint\YasDegerleriniDoldurma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\YasDegerleriniDoldurma.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\YasDegerleriniDoldurma.genruntimeconfig.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\YasDegerleriniDoldurma\obj\Debug\net8.0\ref\YasDegerleriniDoldurma.dll
