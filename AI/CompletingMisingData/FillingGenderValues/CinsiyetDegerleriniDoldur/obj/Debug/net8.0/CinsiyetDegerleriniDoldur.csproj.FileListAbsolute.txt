@@ -1,0 +1,14 @@
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\CinsiyetDegerleriniDoldur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\CinsiyetDegerleriniDoldur.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\CinsiyetDegerleriniDoldur.AssemblyInfo.cs
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\CinsiyetDegerleriniDoldur.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\bin\Debug\net8.0\CinsiyetDegerleriniDoldur.exe
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\bin\Debug\net8.0\CinsiyetDegerleriniDoldur.deps.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\bin\Debug\net8.0\CinsiyetDegerleriniDoldur.runtimeconfig.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\bin\Debug\net8.0\CinsiyetDegerleriniDoldur.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\bin\Debug\net8.0\CinsiyetDegerleriniDoldur.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\CinsiyetDegerleriniDoldur.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\refint\CinsiyetDegerleriniDoldur.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\CinsiyetDegerleriniDoldur.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\CinsiyetDegerleriniDoldur.genruntimeconfig.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\CinsiyetDegerleriniDoldur\obj\Debug\net8.0\ref\CinsiyetDegerleriniDoldur.dll
