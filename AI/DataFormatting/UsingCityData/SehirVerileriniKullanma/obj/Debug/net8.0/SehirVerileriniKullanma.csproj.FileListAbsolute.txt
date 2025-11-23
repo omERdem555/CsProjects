@@ -1,0 +1,14 @@
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\SehirVerileriniKullanma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\SehirVerileriniKullanma.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\SehirVerileriniKullanma.AssemblyInfo.cs
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\SehirVerileriniKullanma.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\bin\Debug\net8.0\SehirVerileriniKullanma.exe
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\bin\Debug\net8.0\SehirVerileriniKullanma.deps.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\bin\Debug\net8.0\SehirVerileriniKullanma.runtimeconfig.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\bin\Debug\net8.0\SehirVerileriniKullanma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\bin\Debug\net8.0\SehirVerileriniKullanma.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\SehirVerileriniKullanma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\refint\SehirVerileriniKullanma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\SehirVerileriniKullanma.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\SehirVerileriniKullanma.genruntimeconfig.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\VerileriBicimlendirme\SehirVerileriniKullanma\obj\Debug\net8.0\ref\SehirVerileriniKullanma.dll
