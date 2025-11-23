@@ -1,0 +1,14 @@
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\bin\Debug\net8.0\KiloDegerleriniDoldurma.exe
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\bin\Debug\net8.0\KiloDegerleriniDoldurma.deps.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\bin\Debug\net8.0\KiloDegerleriniDoldurma.runtimeconfig.json
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\bin\Debug\net8.0\KiloDegerleriniDoldurma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\bin\Debug\net8.0\KiloDegerleriniDoldurma.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\KiloDegerleriniDoldurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\KiloDegerleriniDoldurma.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\KiloDegerleriniDoldurma.AssemblyInfo.cs
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\KiloDegerleriniDoldurma.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\KiloDegerleriniDoldurma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\refint\KiloDegerleriniDoldurma.dll
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\KiloDegerleriniDoldurma.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\KiloDegerleriniDoldurma.genruntimeconfig.cache
+C:\Users\omere\Desktop\O\Projeler\C#\AI\EksikVerileriTamamlama\KiloDegerleriniDoldurma\obj\Debug\net8.0\ref\KiloDegerleriniDoldurma.dll
