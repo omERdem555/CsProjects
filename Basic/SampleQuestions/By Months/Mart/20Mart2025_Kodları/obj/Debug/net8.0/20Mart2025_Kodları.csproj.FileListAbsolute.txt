@@ -1,0 +1,14 @@
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\bin\Debug\net8.0\20Mart2025_Kodları.exe
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\bin\Debug\net8.0\20Mart2025_Kodları.deps.json
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\bin\Debug\net8.0\20Mart2025_Kodları.runtimeconfig.json
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\bin\Debug\net8.0\20Mart2025_Kodları.dll
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\bin\Debug\net8.0\20Mart2025_Kodları.pdb
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\20Mart2025_Kodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\20Mart2025_Kodları.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\20Mart2025_Kodları.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\20Mart2025_Kodları.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\20Mart2025_Kodları.dll
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\refint\20Mart2025_Kodları.dll
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\20Mart2025_Kodları.pdb
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\20Mart2025_Kodları.genruntimeconfig.cache
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\20Mart2025_Kodları\obj\Debug\net8.0\ref\20Mart2025_Kodları.dll
