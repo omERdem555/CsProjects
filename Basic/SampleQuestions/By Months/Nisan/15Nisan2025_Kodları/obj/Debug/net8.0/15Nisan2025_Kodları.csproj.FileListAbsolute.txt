@@ -1,0 +1,4 @@
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\15Nisan2025_Kodları\obj\Debug\net8.0\15Nisan2025_Kodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\15Nisan2025_Kodları\obj\Debug\net8.0\15Nisan2025_Kodları.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\15Nisan2025_Kodları\obj\Debug\net8.0\15Nisan2025_Kodları.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\15Nisan2025_Kodları\obj\Debug\net8.0\15Nisan2025_Kodları.csproj.CoreCompileInputs.cache
