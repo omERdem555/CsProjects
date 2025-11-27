@@ -1,0 +1,14 @@
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\bin\Debug\net8.0\12Kasim2025_Projeleri.exe
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\bin\Debug\net8.0\12Kasim2025_Projeleri.deps.json
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\bin\Debug\net8.0\12Kasim2025_Projeleri.runtimeconfig.json
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\bin\Debug\net8.0\12Kasim2025_Projeleri.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\bin\Debug\net8.0\12Kasim2025_Projeleri.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\12Kasim2025_Projeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\12Kasim2025_Projeleri.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\12Kasim2025_Projeleri.AssemblyInfo.cs
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\12Kasim2025_Projeleri.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\12Kasim2025_Projeleri.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\refint\12Kasim2025_Projeleri.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\12Kasim2025_Projeleri.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\12Kasim2025_Projeleri.genruntimeconfig.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\12Kasim2025_Projeleri\12Kasim2025_Projeleri\obj\Debug\net8.0\ref\12Kasim2025_Projeleri.dll
