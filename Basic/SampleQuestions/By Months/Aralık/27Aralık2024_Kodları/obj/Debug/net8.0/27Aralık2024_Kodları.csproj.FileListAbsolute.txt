@@ -1,0 +1,14 @@
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\bin\Debug\net8.0\27Aralık2024_Kodları.exe
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\bin\Debug\net8.0\27Aralık2024_Kodları.deps.json
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\bin\Debug\net8.0\27Aralık2024_Kodları.runtimeconfig.json
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\bin\Debug\net8.0\27Aralık2024_Kodları.dll
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\bin\Debug\net8.0\27Aralık2024_Kodları.pdb
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\27Aralık2024_Kodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\27Aralık2024_Kodları.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\27Aralık2024_Kodları.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\27Aralık2024_Kodları.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\27Aralık2024_Kodları.dll
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\refint\27Aralık2024_Kodları.dll
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\27Aralık2024_Kodları.pdb
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\27Aralık2024_Kodları.genruntimeconfig.cache
+C:\Users\omere\OneDrive\Desktop\ö\Projeler\C#\27Aralık2024_Kodları\obj\Debug\net8.0\ref\27Aralık2024_Kodları.dll
