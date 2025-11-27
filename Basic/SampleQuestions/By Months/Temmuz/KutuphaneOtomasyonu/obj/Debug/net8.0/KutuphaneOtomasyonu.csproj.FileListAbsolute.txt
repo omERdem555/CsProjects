@@ -1,0 +1,14 @@
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\bin\Debug\net8.0\KutuphaneOtomasyonu.exe
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\bin\Debug\net8.0\KutuphaneOtomasyonu.deps.json
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\bin\Debug\net8.0\KutuphaneOtomasyonu.runtimeconfig.json
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\bin\Debug\net8.0\KutuphaneOtomasyonu.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\bin\Debug\net8.0\KutuphaneOtomasyonu.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\KutuphaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\KutuphaneOtomasyonu.AssemblyInfo.cs
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\KutuphaneOtomasyonu.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\refint\KutuphaneOtomasyonu.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\KutuphaneOtomasyonu.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Temmuz\KutuphaneOtomasyonu\obj\Debug\net8.0\ref\KutuphaneOtomasyonu.dll
