@@ -1,0 +1,14 @@
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\omere\Desktop\O\Projeler\C#\Temel\Agustos\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
