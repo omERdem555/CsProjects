@@ -1,0 +1,14 @@
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\bin\Debug\net8.0\OrnekSorular.exe
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\bin\Debug\net8.0\OrnekSorular.deps.json
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\bin\Debug\net8.0\OrnekSorular.runtimeconfig.json
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\bin\Debug\net8.0\OrnekSorular.dll
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\bin\Debug\net8.0\OrnekSorular.pdb
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\OrnekSorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\OrnekSorular.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\OrnekSorular.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\OrnekSorular.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\OrnekSorular.dll
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\refint\OrnekSorular.dll
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\OrnekSorular.pdb
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\OrnekSorular.genruntimeconfig.cache
+C:\Users\omere\OneDrive\Desktop\Projeler\C#\OrnekSorular\obj\Debug\net8.0\ref\OrnekSorular.dll
